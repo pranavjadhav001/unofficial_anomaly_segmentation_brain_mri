@@ -1,6 +1,6 @@
 # unofficial_anomaly_segmentation_brain_mri
 Unofficial tensorflow implementation for research paper Scale-Space Autoencoders for Unsupervised Anomaly Segmentation in Brain MRI<br />
-Research paper link : https://arxiv.org/abs/2006.12852
+Research paper link : https://arxiv.org/abs/2006.12852<br />
 papers with code link : https://paperswithcode.com/paper/scale-space-autoencoders-for-unsupervised
 #### Model Architecture
 ![alt text](https://github.com/pranavjadhav001/unofficial_anomaly_segmentation_brain_mri/blob/main/arch.png)
